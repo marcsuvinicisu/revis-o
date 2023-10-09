@@ -1,9 +1,84 @@
-<mxfile host="app.diagrams.net" modified="2023-10-09T19:16:40.155Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" version="22.0.4" etag="UrjNALrvth8tzCWo7JNA" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-09T19:22:50.938Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="LJ2wc9XXg_u75EG6rc7U" version="22.0.4" type="github">
   <diagram name="Página-1" id="b0eiuJ6QDuHCBkivZuTJ">
-    <mxGraphModel>
+    <mxGraphModel dx="989" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="SNEVjoqmNipbQVqwGiYD-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SNEVjoqmNipbQVqwGiYD-1" target="SNEVjoqmNipbQVqwGiYD-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SNEVjoqmNipbQVqwGiYD-1" value="Separe 4 pratos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SNEVjoqmNipbQVqwGiYD-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SNEVjoqmNipbQVqwGiYD-2" target="SNEVjoqmNipbQVqwGiYD-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SNEVjoqmNipbQVqwGiYD-2" value="Pegue uma panela" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SNEVjoqmNipbQVqwGiYD-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SNEVjoqmNipbQVqwGiYD-4" target="SNEVjoqmNipbQVqwGiYD-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SNEVjoqmNipbQVqwGiYD-4" value="Encha a Panela de&lt;br&gt;Água" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SNEVjoqmNipbQVqwGiYD-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SNEVjoqmNipbQVqwGiYD-6" target="SNEVjoqmNipbQVqwGiYD-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SNEVjoqmNipbQVqwGiYD-6" value="Ligue o Fogão" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SNEVjoqmNipbQVqwGiYD-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SNEVjoqmNipbQVqwGiYD-8" target="SNEVjoqmNipbQVqwGiYD-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SNEVjoqmNipbQVqwGiYD-8" value="Coloque a Panela no&lt;br&gt;Fogão" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SNEVjoqmNipbQVqwGiYD-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SNEVjoqmNipbQVqwGiYD-10" target="SNEVjoqmNipbQVqwGiYD-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SNEVjoqmNipbQVqwGiYD-10" value="Adicione Sal na água&lt;br&gt;da Panela" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SNEVjoqmNipbQVqwGiYD-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SNEVjoqmNipbQVqwGiYD-12" target="SNEVjoqmNipbQVqwGiYD-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SNEVjoqmNipbQVqwGiYD-12" value="Misture a Àgua e&lt;br&gt;Adicione Macarrão" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SNEVjoqmNipbQVqwGiYD-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SNEVjoqmNipbQVqwGiYD-14" target="SNEVjoqmNipbQVqwGiYD-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SNEVjoqmNipbQVqwGiYD-14" value="Deixe o Macarrão&lt;br&gt;cozinhar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SNEVjoqmNipbQVqwGiYD-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SNEVjoqmNipbQVqwGiYD-16" target="SNEVjoqmNipbQVqwGiYD-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SNEVjoqmNipbQVqwGiYD-16" value="Escorra a água da&lt;br&gt;panela, deixando&lt;br&gt;o macarrão só" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SNEVjoqmNipbQVqwGiYD-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SNEVjoqmNipbQVqwGiYD-18" target="SNEVjoqmNipbQVqwGiYD-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SNEVjoqmNipbQVqwGiYD-18" value="Adicione Molho de Tomate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SNEVjoqmNipbQVqwGiYD-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SNEVjoqmNipbQVqwGiYD-20" target="SNEVjoqmNipbQVqwGiYD-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SNEVjoqmNipbQVqwGiYD-20" value="Misture o macarrão&lt;br&gt;e sirva nos pratos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SNEVjoqmNipbQVqwGiYD-22" value="Fim" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SNEVjoqmNipbQVqwGiYD-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SNEVjoqmNipbQVqwGiYD-27" target="SNEVjoqmNipbQVqwGiYD-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SNEVjoqmNipbQVqwGiYD-27" value="Inicio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="40" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
